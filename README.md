@@ -1,12 +1,7 @@
-# dtree-hxu47
-
-Test naive bayes
-
-![bayes](https://github.com/usf-msds621/dtree-hxu47/workflows/Test%20MSDS621%20dtree/badge.svg)
-
+# Decision Tress
 
 This project is to implement decision trees for classification and regression as objects similar to sklearn's DecisionTreeClassifier and DecisionTreeRegressor.
 
-[Project Description](https://github.com/hxu47/decision-tree/blob/master/dtree.md)
+[Reference](https://github.com/parrt/msds621/blob/master/projects/dtree/dtree.md)
 
 [Decision Trees implementation](https://github.com/hxu47/decision-tree/blob/master/dtree.py)
